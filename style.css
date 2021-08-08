@@ -57,7 +57,7 @@ footer {
 	text-align: center;
 }
 
-.first-column {
+.primeiro {
 	background-color: hsl(31, 77%, 52%);
 	display: flex;
 	flex-direction: column;
@@ -67,17 +67,17 @@ footer {
 
 }
 
-.first-column button {
+.primeiro button {
 	color: hsl(31, 77%, 52%);
 }
 
-.first-column button:hover {
+.primeiro button:hover {
 	border: 2px solid hsl(0, 0%, 95%);
 	color: hsl(0, 0%, 95%);
 	background-color: hsl(31, 77%, 52%);
 }
 
-.second-column {
+.segundo {
 	background-color: hsl(184, 100%, 22%);
 	display: flex;
 	flex-direction: column;
@@ -86,21 +86,17 @@ footer {
 
 }
 
-.second-column button {
+.segundo button {
 	color: hsl(184, 100%, 22%);
 }
 
-.second-column button:hover {
+.segundo button:hover {
 	border: 2px solid hsl(0, 0%, 95%);
 	color: hsl(0, 0%, 95%);
 	background-color: hsl(184, 100%, 22%);
 }
 
-.second-column button {
-	color: hsl(179, 100%, 13%);
-}
-
-.third-column {
+.terceiro {
 	background-color: hsl(179, 100%, 13%);
 	display: flex;
 	flex-direction: column;
@@ -110,7 +106,11 @@ footer {
 
 }
 
-.third-column button:hover {
+.segundo button {
+	color: hsl(179, 100%, 13%);
+}
+
+.terceiro button:hover {
 	border: 2px solid hsl(0, 0%, 95%);
 	color: hsl(0, 0%, 95%);
 	background-color: hsl(179, 100%, 13%);
@@ -124,11 +124,11 @@ footer {
 		margin-right: 1rem;
 	}
 
-	.first-column {
+	.primeiro {
 		border-radius: 8px 8px 0 0;
 	}
 
-	.first-column {
+	.terceiro {
 		border-radius: 0 0 8px 8px;
 	}
 
