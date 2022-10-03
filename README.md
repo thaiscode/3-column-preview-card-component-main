@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/3column-preview-card-component-with-html-and-css-OJCgu9TDr)
-- Live Site URL: (https://thaiscode.github.io/thaiscode.github.io-3-column-preview-card-component-main/)
+- Live Site URL: (https://thaiscode.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
